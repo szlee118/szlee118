@@ -8,11 +8,8 @@
 
 
 - :school: A `Graduate Student` at [Information Networking Institute](https://www.cmu.edu/ini/) at [Carnegie Mellon University](https://www.cmu.edu/).
-- :technologist: Love using Software as a solution for every `Problem`.
 - :computer: Competitive programmer at `Codeforces`, `Leetcode`, `Google Contests`.
-- :student: Currently learning `Cloud Computing`.
-- :nerd_face: Always `learning new things`.
-- :thinking: Currently open for a new `job opportunity`.
+- :thinking: Currently open for roles of `software engineer`.
 <br>
 
 
