@@ -7,9 +7,9 @@
 
 
 
-- :school: A `Graduate Student` at [Information Networking Institute](https://www.cmu.edu/ini/) at [Carnegie Mellon University](https://www.cmu.edu/).
-- :computer: Competitive programmer at `Codeforces`, `Leetcode`, `Google Contests`.
-- :thinking: Currently open for roles of `software engineer`.
+- :school: Graduating from  [Information Networking Institute](https://www.cmu.edu/ini/) at [Carnegie Mellon University](https://www.cmu.edu/)
+- :cloud: Fullstack/System/Cloud Software Engineer, Firmware Engineer
+- :computer: Competitive programmer at `Codeforces`, `Leetcode`
 <br>
 
 
