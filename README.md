@@ -6,9 +6,8 @@
 
 
 
-
-- :school: Graduating from  [Information Networking Institute](https://www.cmu.edu/ini/) at [Carnegie Mellon University](https://www.cmu.edu/)
 - :cloud: Fullstack/System/Cloud Software Engineer, Firmware Engineer
+- :school: Recently graduated from  [Information Networking Institute](https://www.cmu.edu/ini/) at [Carnegie Mellon University](https://www.cmu.edu/)
 - :computer: Competitive programmer at `Codeforces`, `Leetcode`
 <br>
 
